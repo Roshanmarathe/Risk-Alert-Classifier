@@ -20,7 +20,8 @@
 <img src="assets/pipeline-flow.svg" alt="Animated workflow: Data, Prepare, Split, Train, Evaluate, Deploy" width="100%"/>
 
 </div>
-
+Live Demo: Open Risk Alert
+Classifier
 <br/>
 
 > [!IMPORTANT]
